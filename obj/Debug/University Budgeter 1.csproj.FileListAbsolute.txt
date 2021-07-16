@@ -1,0 +1,19 @@
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\obj\Debug\University Budgeter 1.csprojAssemblyReference.cache
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\obj\Debug\University_Budgeter_1.Properties.Resources.resources
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\obj\Debug\University Budgeter 1.csproj.GenerateResource.cache
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\obj\Debug\University_Budgeter_1.Form1.resources
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\bin\Debug\University Budgeter.exe.config
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\bin\Debug\University Budgeter.exe
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\bin\Debug\University Budgeter.pdb
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\obj\Debug\University Budgeter.exe
+C:\Users\oakle\OneDrive\Documents\OtherProjects\University Budgeter 1\obj\Debug\University Budgeter.pdb
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\bin\Debug\University Budgeter.exe.config
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\bin\Debug\University Budgeter.exe
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\bin\Debug\University Budgeter.pdb
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University Budgeter 1.csprojAssemblyReference.cache
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University_Budgeter_1.Form1.resources
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University_Budgeter_1.Properties.Resources.resources
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University Budgeter 1.csproj.GenerateResource.cache
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University Budgeter 1.csproj.CoreCompileInputs.cache
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University Budgeter.exe
+C:\Users\oakle\OneDrive\Documents\test\formsUniBudgetCalculator\obj\Debug\University Budgeter.pdb
